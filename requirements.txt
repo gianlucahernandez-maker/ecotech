@@ -1,0 +1,2 @@
+# sqlite3 viene incluido en Python (librería estándar), no se instala.
+python-dotenv==1.0.1
